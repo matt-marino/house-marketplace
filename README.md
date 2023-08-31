@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Video Demo:
+
+https://github.com/matt-marino/house-marketplace/assets/85694679/d81f94e4-00c5-4c83-8d2e-a5c92bdf91d1
+
 ## Available Scripts
 
 In the project directory, you can run:
